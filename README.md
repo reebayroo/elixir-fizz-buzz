@@ -1,6 +1,7 @@
 # Fizzbuzz
 
-**TODO: Add description**
+A Simple Fizz Buzz to refresh basic pattern matching on Elixir
+
 
 ## Installation
 
